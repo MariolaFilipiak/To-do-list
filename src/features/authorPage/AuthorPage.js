@@ -11,7 +11,9 @@ export default () => (
         body={
         
             <AuthorStyled> Cześć !<br/>
-            Nazywam się Mariola. Moją pasją jest fotografia, a w polnych chwilach uczę się programować :)<br/> Nie wiem co więcej o sobie napisać lalalalalala ;)  </AuthorStyled>
+            Nazywam się Mariola. Moją pasją jest fotografia, programowanie oraz projektowanie wnętrz.<br/>
+            Na codzień matka i żona. Wciąż rozwijam nowe umiejętności i nie boję się nowych wyzwań :)
+             </AuthorStyled>
         }
         />
         </Container>
