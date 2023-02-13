@@ -1,5 +1,7 @@
 # This is my first task list in React
 
+My to-do list . You can add tasks , delated tasks , show and hide tasks and download sample tasks.
+
 ![images](https://github.com/MariolaFilipiak/todos-list-react/blob/main/public/gif.gif?raw=true)
 
 ## Demo
