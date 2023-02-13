@@ -3,7 +3,7 @@
 ![images](https://github.com/MariolaFilipiak/todos-list-react/blob/main/public/gif.gif?raw=true)
 
 ## Demo
-https://mariolafilipiak.github.io/todos-list-react/
+https://mariolafilipiak.github.io/to-do-list/
 ## Technologies used
 
 HTML
