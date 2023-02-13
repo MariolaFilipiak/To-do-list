@@ -2,7 +2,7 @@
   "name": "todolist-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mariolafilipiak.github.io/todos-list-react/",
+  "homepage": "https://mariolafilipiak.github.io/to-do-list/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
